@@ -67,8 +67,7 @@ body.internacional #navegacao a#internacional,
 body.economia #navegacao a#economia,
 body.saude #navegacao a#saude,
 body.ciencia #navegacao a#ciencia,
-body.fotos #navegacao a#fotos,
-{
+body.fotos #navegacao a#fotos{
     color: #fff;
     background: #de003e;
     cursor: text;
